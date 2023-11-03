@@ -1,0 +1,11 @@
+Command: date
+ * Command to be executed: date
+---------------------------------
+Fri Oct 27 13:02:18 WEST 2023
+---------------------------------
+Command: whoami
+ * Command to be executed: whoami
+---------------------------------
+ruben
+---------------------------------
+Command: end-------------The End-------------
